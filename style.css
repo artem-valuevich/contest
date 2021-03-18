@@ -1,0 +1,86 @@
+.header {
+  background-image: url(./img/Quotes-Web-Template1.jpg);
+  background-size: cover;
+  padding: 50px 75px;
+}
+
+.bg-color-black {
+  background-color: black;
+  width: 100px;
+  height: 100px;
+}
+
+.white-text {
+  color: white;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+.jc-center {
+  justify-content: center;
+}
+
+.w-100 {
+  width: 100px;
+}
+
+.h-50 {
+  height: 50px;
+}
+
+.jc-sb {
+  justify-content: space-between;
+}
+
+.white-borders {
+  border-bottom: 3px solid white;
+  border-top: 3px solid white;
+}
+
+.column {
+  flex-direction: column;
+}
+
+.pb-100 {
+  padding-bottom: 100px;
+}
+
+.pad-content {
+  padding: 150px 100px;
+}
+
+.ta-right {
+  text-align: right;
+}
+
+.ta-j {
+  text-align: justify;
+}
+
+.jc-center {
+  justify-content: center;
+}
+
+.m-50 {
+  margin: 50px 0;
+}
+
+.m-100 {
+  margin: 100px 0;
+}
+
+.line {
+  width: 100px;
+  border-bottom: 2px solid grey;
+}
+
+.bg-pink {
+  background-color: pink;
+}
+
+.mrl-50 {
+  margin: 0 50px;
+}
